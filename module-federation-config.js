@@ -10,6 +10,8 @@ export default {
   remotes: {
     provider: "provider@http://localhost:3001/mf-manifest.json",
   },
+  // https://github.com/module-federation/vite/issues/87
+  manifest: true,
   // shared: {
   //   react: {
   //     singleton: true,

@@ -1,3 +1,4 @@
+// @ts-nocheck
 // Generated with create-component/index.js
 import React from "react";
 
